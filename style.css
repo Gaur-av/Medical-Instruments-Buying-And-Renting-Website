@@ -1,0 +1,62 @@
+form{
+    background-color: aliceblue;
+    border-radius: 10%;
+    margin-top: 10%;
+    margin-left: 35%;
+    margin-right:35%;
+}
+input[type="email"],
+input[type="password"]{
+    width: 75%;
+    background-color: rgb(228, 243, 243);
+    border-color: azure;
+    padding: 3%;
+    margin:10px;
+}
+h1{
+    padding-top: 5%;
+    font-size: 300%;
+    font-family: 'Times New Roman', 'Times', serif;
+}
+.a{
+   font-family: Verdana, Geneva, Tahoma, sans-serif; 
+   text-align: left;
+   padding-left: 30px;
+   font-size: x-large;
+}
+input[type="submit"]{
+    color: aquamarine;
+    background-color: black;
+    font-size: larger;
+    width: 20%;
+    padding: 3%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-radius: 20%;
+}
+input[type="submit"]:hover{
+    color:black;
+    background-color: aliceblue;
+    cursor: pointer;
+}
+.b{
+    font-size: 150%;
+    color: crimson;
+    margin-bottom: -5%;
+}
+p{
+    padding-bottom: 5%;
+    font-size: larger;
+}
+.error{
+    color:red;
+    font-size: x-large;
+    width: 75%;
+    padding-top: 2%;
+    border-radius: 5%;
+    margin-left: 13%;
+    background-color: rgb(246, 210, 225);
+}
+body{
+    background-image: url("images/pngtree-vector-design-background-medical-instruments-for-vaccine-picture-image_1204718.jpg");
+}

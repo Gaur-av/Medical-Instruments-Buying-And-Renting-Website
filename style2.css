@@ -1,0 +1,91 @@
+body{
+    background-image: url("images/pngtree-vector-design-background-medical-instruments-for-vaccine-picture-image_1204718.jpg");
+}
+form{
+    background-color: aliceblue;
+    border-radius: 10%;
+    margin-top:2%;
+    margin-left: 33%;
+    margin-right:33%;
+}
+input[type="email"],
+input[type="password"],
+.c[type="text"]{
+    width: 75%;
+    background-color: rgb(228, 243, 243);
+    border-color: azure;
+    padding: 3%;
+    margin:10px;
+}
+.a{
+    margin-right: 35%;
+}
+input[type="submit"]{
+    color: aquamarine;
+    background-color: black;
+    font-size: larger;
+    width: 20%;
+    padding: 3%;
+    margin-bottom: 5%;
+    border-radius: 20%;
+}
+input[type="submit"]:hover{
+    color:black;
+    background-color: aliceblue;
+    cursor: pointer;
+}
+.a[type="text"]{
+    width: 32%;
+    background-color: rgb(228, 243, 243);
+    border-color: azure;
+    padding: 3%;
+    margin:10px;
+}
+.error{
+    color:red;
+    font-size: x-large;
+    width: 75%;
+    padding-top: 2%;
+    border-radius: 5%;
+    margin-left: 13%;
+    background-color: rgb(246, 210, 225);
+}
+h1{
+    padding-top: 5%;
+    font-size: 300%;
+    font-family: 'Times New Roman', 'Times', serif;
+}
+.b{
+    font-family: 'Verdana', Geneva, Tahoma, sans-serif; 
+    text-align: left;
+    padding-left:10%;
+    font-size: large;
+}
+.d{
+    margin-left: -17%;
+    font-family: 'Verdana', Geneva, Tahoma, sans-serif;
+    font-size: large; 
+    margin-right: 25%;
+}
+.e{
+    font-family: 'Verdana', Geneva, Tahoma, sans-serif;
+    font-size: large; 
+    margin-left: -3%;
+}
+.success{
+    color:rgb(255, 242, 0);
+    font-size: x-large;
+    width: 75%;
+    padding-top: 2%;
+    border-radius: 5%;
+    margin-left: 13%;
+    background-color: rgb(250, 253, 171);
+}
+.z{
+    margin-top: -3%;
+    font-size: 150%;
+}
+a{
+    font-size: 130%;
+    padding-bottom: 5%;
+}
